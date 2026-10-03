@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/birostweb-logo.png" alt="Logo Birostweb" width="112" height="112">
+
 # Birostweb
 
 ### Développement web indépendant · Théo Birost
