@@ -1,67 +1,34 @@
 <div align="center">
 
-# 👋 Bienvenue chez Birostweb
+# Birostweb
 
-### Développement web sur-mesure · Théo Birost
+### Développement web indépendant · Théo Birost
 
-**Des sites soignés et rapides, pensés pour votre activité.**
+Des sites et applications sur mesure, soignés et rapides, du premier échange à la mise en ligne.
 
-[🌐 Découvrir Birostweb](https://birostweb.fr) · [📫 Parlons de votre projet](mailto:contact@theo-birost.fr) · [👨‍💻 Mon profil personnel](https://github.com/TheoBirost)
+[Découvrir mon travail](https://birostweb.fr) · [Parler d'un projet](mailto:contact@theo-birost.fr)
 
 </div>
 
----
+## Bonjour, je suis Théo 👋
 
-Je suis **Théo Birost**, développeur web indépendant et créateur de **Birostweb**. J'accompagne les projets de la conception à la mise en ligne, avec un interlocuteur unique et un périmètre défini ensemble.
+Je conçois et développe des sites web pour les professionnels et des applications adaptées à leurs besoins. Je travaille à distance partout en France, avec un interlocuteur unique de la conception au déploiement.
 
-📍 **France entière · Télétravail**
+**Mes services :** sites vitrines, boutiques en ligne, applications web, refonte et accompagnement après mise en ligne.
 
-## 💼 Ce que je propose
+## Projets sélectionnés
 
-- **Sites vitrines** pour présenter une activité et faciliter la prise de contact.
-- **Boutiques en ligne** avec un parcours d'achat adapté au projet.
-- **Applications web** et outils construits autour des besoins métier.
-- **Refonte, hébergement et maintenance** pour accompagner les sites dans la durée.
-
-## 🚀 Technologies
-
-![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-## 🌍 Quelques réalisations
-
-| Projet | Réalisation | Technologies |
+| Projet | Ce que j'ai réalisé | Découvrir |
 | --- | --- | --- |
-| [Maison du Bonheur](https://maisondubonheurstesavine.fr) | Site vitrine de deux logements touristiques, réalisé pendant mon stage à la SCI Birost | Vue 3, Vite, JavaScript |
-| [Forum Hydrogen Business for Climate](https://hydrogenbusinessforclimate.com) | Refonte bilingue FR/EN du site du forum, réalisée pendant mon stage chez AER BFC | WordPress, ACF, PHP, TranslatePress |
-| [Générique](https://generique.theo-birost.fr) | Application de recherche de films, d'interprètes et de réalisateurs | Vue 3, Vite, JavaScript, API |
+| **Maison du Bonheur** | Site de présentation et de réservation pour deux logements touristiques, développé pendant mon stage à la SCI Birost. Vue 3 et Vite. | [Site en ligne](https://maisondubonheurstesavine.fr/) |
+| **Hydrogen Business for Climate** | Refonte bilingue du site d'un forum B2B, pendant mon stage chez AER BFC. WordPress, ACF et PHP. | [Site en ligne](https://www.hydrogenbusinessforclimate.com/) |
+| **Générique** | Application de recherche de films, interprètes et réalisateurs, du front à l'API. Vue 3 et JavaScript. | [Voir l'application](https://generique.theo-birost.fr/) |
+| **Empire Culturel** | Jeu web de collection de monuments avec progression et sauvegarde locale. Vue 3 et Tailwind CSS. | [Voir le jeu](https://carte.theo-birost.fr/) · [Code](https://github.com/tbirostweb/empire-culturel) |
 
-Retrouvez aussi mes projets personnels et mes expérimentations sur [birostweb.fr](https://birostweb.fr).
+## Ce que vous trouverez ici
 
-## 🤝 Ma façon de travailler
+Des projets clients réalisés dans le cadre de mes stages, ainsi que mes applications, jeux et expérimentations personnels. Les dépôts publics montrent mon travail côté interface, logique et déploiement. La présentation complète de mes services et réalisations est sur [birostweb.fr](https://birostweb.fr).
 
-1. **Échanger** sur le besoin, les objectifs et le budget.
-2. **Concevoir et développer** après validation des maquettes.
-3. **Mettre en ligne et accompagner** la prise en main et les évolutions.
+## Contact
 
-## 📫 Contact
-
-**Un site à créer, une refonte ou une application à construire ?**
-
-- 🌐 Site : [birostweb.fr](https://birostweb.fr)
-- 📧 Email : [contact@theo-birost.fr](mailto:contact@theo-birost.fr)
-- 📷 Instagram : [@birost.web](https://www.instagram.com/birost.web/)
-
-<div align="center">
-
-*Du premier échange à la mise en ligne.*
-
-</div>
+Un site à créer, une refonte ou une idée d'application ? Écrivez-moi à [contact@theo-birost.fr](mailto:contact@theo-birost.fr) ou retrouvez-moi sur [Instagram](https://www.instagram.com/birost.web/).
